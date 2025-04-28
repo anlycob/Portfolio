@@ -15,9 +15,12 @@
   
 -If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-  I wish I was more thorough in my evaluation of the operating systems. I think I could've been more extensive in my         research.
-  
+  I wish I was more thorough in my evaluation of the operating systems. I think I could've been more extensive in my         research, which would have helped my client feel more confident in my final recommendations.
+
 -How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
+  As a cross-platform software, I recognized the importance of consistency in performance and the user experience across     platforms. I also prioritized data security so that the user could confidently play the game. It is important to           consider the user's needs when designing software because the user wlil experience the design firsthand. The software      should perform at and cater to the uesr's standard because they are actively interacting with it.
   
 -How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+  I attempted to organize my design so that it could easily be used as a guide for similar software in the future. The       client's requirement that the software be available on multiple platforms is a general requirement that can be applied     to future projects. I tried to use this as the foundation for the decisions I made when completing the design document     that way they could be useful in designing other cross-platform software applications
