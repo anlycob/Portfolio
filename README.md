@@ -23,4 +23,9 @@
   
 -How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-  I attempted to organize my design so that it could easily be used as a guide for similar software in the future. The       client's requirement that the software be available on multiple platforms is a general requirement that can be applied     to future projects. I tried to use this as the foundation for the decisions I made when completing the design document     that way they could be useful in designing other cross-platform software applications
+  I attempted to organize my design so that it could easily be used as a guide for similar software in the future. The       client's requirement that the software be available on multiple platforms is a general requirement that can be applied to future projects. I tried to use this as the foundation for the decisions I made when completing the design document that way they could be useful in designing other cross-platform software applications
+
+# CS-250 Software Development Lifecycle
+- How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+- How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+- What does it mean to be a good team member in software development?
