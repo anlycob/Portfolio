@@ -29,3 +29,33 @@
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 - How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 - What does it mean to be a good team member in software development?
+
+# CS-305 Software Security
+- Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+
+Artemis Financial is a company that manages individualized finances, including savings, retirement funds, investments, and insurance. They needed software capable of securely handling customers’ personal data, both while stored long-term and during transfers.
+
+- What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
+
+I did an adequate job of using the Vulnerability Assessment Process Flow Diagram to create a mitigation plan. Secure code safeguards sensitive data from malicious attacks. Attacks on a company's system software can lead to costly consequences like data breaches and customer distrust.
+  
+- Which part of the vulnerability assessment was challenging or helpful to you?
+  
+Although I feel confident generating dependency reports, I need more practice analyzing them. Resolving vulnerabilities requires a thorough understanding of the role each dependency library plays in the software, which I do not have yet.
+
+- How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+
+I used self-signed certificates to encrypt data and identify the server. In the future, I will continue to conduct manual reviews of the code to check for things like quality code, effective error handling, and proper use of cryptographic protocols to mitigate security risks. 
+  
+- How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+
+I frequently tested the code to ensure it was both functional and secure. I also did iterative dependency checks during development to maintain its security.
+
+- What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?_
+
+I often referenced the textbook for this course, which provided example code that helped me complete several assignments. I also fully expect to use the National Vulnerability Database (NVD) frequently in my career.
+  
+- Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+I would show the Vulnerabilty Assessment Report. It shows my ability to assess the business needs of a company and translate them into system security requirements. 
+
