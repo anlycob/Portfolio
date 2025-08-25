@@ -30,6 +30,21 @@
 - How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 - What does it mean to be a good team member in software development?
 
+# CS-255 System Analysis & Design
+-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? What did you do particularly well?
+
+  DriverPass is a company that provides a platform for student drivers to take practice tests and get driving practice to prepare for the DMV test. The owner wanted to build a web-based application that customers and staff could use to perform tasks such as scheduling driving lessons and managing user accounts respectively. I identified the system requirements and planned the design using behavioral and functional modeling techniques. 
+  
+-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+-How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+  DriverPass' employees have diverse roles so access control was an important aspect of the system's design. The owner of DriverPass requested having full access to all accounts while his secretary only be provided with the necessary access to perform taskes related to customer reception and enrollment. 
+  
+-How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+  I start by collecting the requirements and outlining project limits. Next, I create a schedule to help keep track of progress. Then, I use various diagrams to serve as blueprints for the system's function and structure. I will continue to use UML diagrams when designing software.
+  
 # CS-305 Software Security
 - Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
